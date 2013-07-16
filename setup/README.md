@@ -5,9 +5,9 @@ configure both the machine and your individual development environment as
 follows:
 
 ```sh
-cd $HOME
 sudo apt-get install -y git-core
-git clone https://github.com/startup-class/setup.git
+git clone https://github.com/touchdown/bitstarter
+cd bitstarter
 ./setup/setup.sh   
 ```
 
